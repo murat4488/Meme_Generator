@@ -1,0 +1,31 @@
+img {
+    
+    width: 400px ;
+    height: 400px;
+}
+
+input {
+    width: 20rem;
+    
+}
+
+.meme {
+    position: relative;
+}
+
+.top-text {
+    position: absolute;
+    top: 20px;
+    left: 75px;
+    font-family: 'Anton', sans-serif;
+    font-size: larger;
+}
+
+.bottom-text {
+    position: absolute;
+    left: 75px;
+    bottom: 20px;
+    font-family: 'Anton', sans-serif;
+    font-size: larger;
+    
+}
